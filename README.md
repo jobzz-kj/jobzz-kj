@@ -4,4 +4,4 @@
 - 💬 Ask me about Web Development, NLP, ML.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jobzzkj/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Computer Programming was instrumental in helping end World War II
+- ⚡ Fact: Computer Programming was instrumental in helping end World War II
